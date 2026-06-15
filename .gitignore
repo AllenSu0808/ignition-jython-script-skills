@@ -1,0 +1,8 @@
+# Private documentation (Claude Code)
+.claude/
+CLAUDE.md
+.specify/
+specs/
+.mcp.json
+.agents/
+.github/
